@@ -1,0 +1,13 @@
+package howard.edu.sycs363.spring15.lab4;
+
+public class PhoneDirectory {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

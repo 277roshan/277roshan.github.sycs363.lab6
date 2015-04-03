@@ -1,0 +1,49 @@
+package howard.edu.sycs363.spring15.lab4;
+import java.util.HashMap;
+import java.util.Map;
+
+public class PhoneDirectory {
+
+	
+	private Map<String, String> directoryMap = new HashMap<String, String>();
+	// local variable declarations and methods
+	
+
+	public PhoneDirectory() {
+	    // read file from some default location of your choosing
+		directoryMap.put("aa", "as");
+	}
+	
+	/*
+		public PhoneDirectory(String phoneDirectoyFile) {
+	    // read file and create in memory phone directory
+	}
+	public String lookup(String personName) {
+	    // return phone number based on name
+	}
+	public void addorChangeEntry(String name, String phoneNumber) {
+	     // if the name is already in the directory add it else replace existing
+ 		     // name with the new phone Number
+	}
+	public void deleteEntry(String name) {
+	     // Remove entry from the phone book associate with “name”
+	}
+	public void write() {
+	     // write contents of in memory phone directory to a file.
+ // research the web to see examples of how to iterate through a 
+ // HashMap
+	}
+
+*/	
+	
+	public static void main(String[] args) {
+		System.out.print("jh");
+
+	}
+
+
+}
+
+
+
+
